@@ -1,0 +1,5 @@
+pip install ocrd-fork-pylsd==0.0.3
+pip install matplotlib
+pip install numpy
+pip install opencv-python
+pip install scipy

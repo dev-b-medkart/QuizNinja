@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pillow
+python-multipart
+ocrd-fork-pylsd==0.0.3
+matplotlib
+numpy
+opencv-python
+scipy
+python-multipart
